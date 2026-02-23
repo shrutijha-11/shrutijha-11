@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently a student pursuing B.Tech IT , batch 2027<br>I'm looking to collaborate on projects <br>I'm looking for help with Job Placements.<br>I'm currently Learning Backend development through Java & Practising DSA.<br>
+I'm currently a student pursuing B.Tech IT from Bengal College Of Engineering & Technology (2027 batch).<br>I'm currently practising DSA in Java on Platforms like GFG (400+ problems done), Leetcode & HackerRank ( 2 star till now) , enthusiastic & much interested to be a Java Backend development working with SprinBoot Framework .<br> Also have a good hold on MySQL ( practising on HackerRank - 2 star ) .
 
 
 ## 🌐 Socials:
