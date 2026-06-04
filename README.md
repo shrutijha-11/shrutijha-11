@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently a student pursuing B.Tech IT from Bengal College Of Engineering & Technology (2027 batch).<br>I'm currently practising DSA in Java on Platforms like GFG (400+ problems done), Leetcode & HackerRank ( 2 star till now) .<br> enthusiastic & much interested to be a Java Developer working with SprinBoot Framework .<br> Also have a good hold on MySQL ( practising on HackerRank - 2 star ) .<br>
+I'm currently a student pursuing B.Tech IT from Bengal College Of Engineering & Technology (2027 batch).<br>I'm currently practising DSA in Java on Platforms like GFG (500+ problems done with a score of 1100), Leetcode & HackerRank ( 3 star till now) .<br> enthusiastic & much interested to be a Java Developer working with SprinBoot Framework .<br> Also have a good hold on MySQL ( practising on HackerRank - 3 star ) .<br>
 
 
 ## 🌐 Socials:
